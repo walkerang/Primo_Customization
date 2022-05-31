@@ -1,3 +1,8 @@
-#Introduction
+# Primo - Adaptive Discovery
+## _Documentation of Features & Customization_
 
-If I remember Markdown right, two line spacings make a new paragraph.
+The CSCU library consortium uses Ex Libris Alma/Primo as their discovery system. The user interface can be customized to support and improve the user experience. 
+The following is a documentation of the customizations made by our colleagues across the CSCU libraries. It is follow-up of two projects undertaken by the Primo/Discovery Expert Team:
+- a multi-campus UX study and resulting recommendations
+- a survey & inventory of changes made by each institution
+The purpose of this documentation is to share knowledge and experience, so that anyone can customize their Primo instance for better discovery.
