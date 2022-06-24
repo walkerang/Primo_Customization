@@ -1,3 +1,11 @@
 create-your-open-textbook
 primo---adaptive-discovery
 documentation-of-features-customization
+search-filter-facets
+change-facet-heading-tweak-my-results
+change-which-facet-categorie-show
+change-label-of-facet-category
+change-individual-facet-labels
+course-reserves
+collection-discovery
+resource-recommender
